@@ -16,6 +16,7 @@ watermark, or want a subscription. These run on your own computer: no uploads, n
 | [**Background Remover**](https://github.com/collinb0607/background-remover) | Cuts the subject out of photos with AI that runs on your own PC: transparent PNG or a colour background, in batches, with a before/after preview. | [Windows / Mac download](https://github.com/collinb0607/background-remover/releases/latest) |
 | [**Image Upscaler**](https://github.com/collinb0607/image-upscaler) | Enlarges photos and drawings 2× or 4× with Real-ESRGAN AI on your own graphics chip, adding real detail instead of blur. Batches, with drag and drop. | [Windows / Mac download](https://github.com/collinb0607/image-upscaler/releases/latest) |
 | [**PDF Toolkit**](https://github.com/collinb0607/pdf-toolkit) | An offline Acrobat alternative: edit the text and pictures already in a PDF; organize, compress and split; search, comment and mark up; fill in, create and sign forms (including certificate signatures); compare two PDFs. | [Windows / Mac download](https://github.com/collinb0607/pdf-toolkit/releases/latest) |
+| [**Subtitle Generator**](https://github.com/collinb0607/subtitle-generator) | Writes subtitles for any video with Whisper AI on your own PC, in 99 languages. Fix them with a live preview, then save an .srt file, a subtitle track, or captions burned into the video. | [Windows / Mac download](https://github.com/collinb0607/subtitle-generator/releases/latest) |
 
 More tools are on the way.
 
