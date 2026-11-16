@@ -13,6 +13,7 @@ watermark, or want a subscription. These run on your own computer: no uploads, n
 | [**Video Compressor**](https://github.com/collinb0607/video-compressor) | Shrinks a video to fit a size limit, like Discord's 20 MB or an email attachment. Two-pass encoding lands just under the target. | [Windows / Mac download](https://github.com/collinb0607/video-compressor/releases/latest) |
 | [**Audio Converter**](https://github.com/collinb0607/audio-converter) | Pulls the sound out of videos, or converts audio, to MP3 or WAV in batches, and can make every file equally loud. | [Windows / Mac download](https://github.com/collinb0607/audio-converter/releases/latest) |
 | [**Image Converter**](https://github.com/collinb0607/image-converter) | Converts, resizes and compresses HEIC, WebP, PNG and JPG photos in batches of any size, with drag and drop. Fits each file under a size limit and removes location data. | [Windows / Mac download](https://github.com/collinb0607/image-converter/releases/latest) |
+| [**Background Remover**](https://github.com/collinb0607/background-remover) | Cuts the subject out of photos with AI that runs on your own PC: transparent PNG or a colour background, in batches, with a before/after preview. | [Windows / Mac download](https://github.com/collinb0607/background-remover/releases/latest) |
 
 More tools are on the way.
 
