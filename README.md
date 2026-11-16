@@ -15,7 +15,7 @@ watermark, or want a subscription. These run on your own computer: no uploads, n
 | [**Image Converter**](https://github.com/collinb0607/image-converter) | Converts, resizes and compresses HEIC, WebP, PNG and JPG photos in batches of any size, with drag and drop. Fits each file under a size limit and removes location data. | [Windows / Mac download](https://github.com/collinb0607/image-converter/releases/latest) |
 | [**Background Remover**](https://github.com/collinb0607/background-remover) | Cuts the subject out of photos with AI that runs on your own PC: transparent PNG or a colour background, in batches, with a before/after preview. | [Windows / Mac download](https://github.com/collinb0607/background-remover/releases/latest) |
 | [**Image Upscaler**](https://github.com/collinb0607/image-upscaler) | Enlarges photos and drawings 2× or 4× with Real-ESRGAN AI on your own graphics chip, adding real detail instead of blur. Batches, with drag and drop. | [Windows / Mac download](https://github.com/collinb0607/image-upscaler/releases/latest) |
-| [**PDF Toolkit**](https://github.com/collinb0607/pdf-toolkit) | Merge, reorder, rotate, split and compress PDFs in a page-thumbnail workspace; images to PDF, pages to images, page numbers, watermarks and passwords. | [Windows / Mac download](https://github.com/collinb0607/pdf-toolkit/releases/latest) |
+| [**PDF Toolkit**](https://github.com/collinb0607/pdf-toolkit) | Merge, reorder, rotate, crop, split and compress PDFs in a page-thumbnail workspace; fill in forms and sign; headers, footers, Bates numbers, watermarks and passwords. | [Windows / Mac download](https://github.com/collinb0607/pdf-toolkit/releases/latest) |
 
 More tools are on the way.
 
