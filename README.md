@@ -20,6 +20,11 @@ watermark, or want a subscription. These run on your own computer: no uploads, n
 
 More tools are on the way.
 
+They're all free, with no ads, accounts or limits. If one saved you time or a subscription, you can
+support them on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/collinbrooksdev)
+
 <p align="center"><img src="https://raw.githubusercontent.com/collinb0607/gif-maker/main/docs/demo.gif" width="420" alt="GIF Maker demo"></p>
 
 ## Other projects
